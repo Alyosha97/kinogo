@@ -152,8 +152,3 @@ input {
 ul li {
   padding: 5px;
 }
-
-.stop-scrolling {
-  height: 100%;
-  overflow: hidden;
-}
