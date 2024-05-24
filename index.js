@@ -115,7 +115,7 @@ async function openModal(id) {
         respData.description
           ? `<li class="modal-movie-overview">Описание - ${respData.description}</li>`
           : ""
-      }
+       }
     </ul>
     <button type="button" class="modal-button-close">Закрыть</button>
   </div>
